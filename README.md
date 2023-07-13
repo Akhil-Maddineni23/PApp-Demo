@@ -11,8 +11,8 @@
 8. If a owner of the note deleted the note and if it shared to other users then it also gets deleted from the receivers end.
 
 ## Frameworks Used :
-*Frontend - React Js , HTML , CSS
-*Backend - Nodejs , Expressjs
+* Frontend - React Js , HTML , CSS
+* Backend - Nodejs , Expressjs
 -> Database - MongoDB
 -> Database Querying - Mongoose
 
