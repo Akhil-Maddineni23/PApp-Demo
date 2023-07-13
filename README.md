@@ -13,12 +13,12 @@
 ## Frameworks Used :
 * Frontend - React Js , HTML , CSS
 * Backend - Nodejs , Expressjs
--> Database - MongoDB
--> Database Querying - Mongoose
+* Database - MongoDB
+* Database Querying - Mongoose
 
 ## Features Used :
--> used cookies to authorize the user.
--> used session storage to store the data related to logined user.
--> used cookies to share the password between users.
--> Added expire timer to the cookie for password expiration.
+* used cookies to authorize the user.
+* used session storage to store the data related to logined user.
+* used cookies to share the password between users.
+* Added expire timer to the cookie for password expiration.
 
