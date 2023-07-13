@@ -1,8 +1,8 @@
 # Password-Manager-App
 
 ## Functionalities of my app :
-. 1.) Users can be registered
-. 2.) Logined users can create the password notes
+1. Users can be registered
+2. Logined users can create the password notes
 3.) Password notes can be renamed
 4.) Password notes can be deleted
 5.) Password notes can be shared to other users
