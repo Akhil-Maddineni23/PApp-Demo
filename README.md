@@ -10,13 +10,13 @@
 7. Recevier cannot delete the received notes.
 8. If a owner of the note deleted the note and if it shared to other users then it also gets deleted from the receivers end.
 
-# Frameworks Used :
--> Frontend - React Js , HTML , CSS
--> Backend - Nodejs , Expressjs
+## Frameworks Used :
+*Frontend - React Js , HTML , CSS
+*Backend - Nodejs , Expressjs
 -> Database - MongoDB
 -> Database Querying - Mongoose
 
-# Features Used :
+## Features Used :
 -> used cookies to authorize the user.
 -> used session storage to store the data related to logined user.
 -> used cookies to share the password between users.
