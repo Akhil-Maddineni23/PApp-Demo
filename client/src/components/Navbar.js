@@ -2,7 +2,7 @@ import { Link , useNavigate} from "react-router-dom";
 import { useCookies } from "react-cookie";
 import { useGetUserName } from "../hooks/useGetUserName"
 import { useGetUserID } from "../hooks/useGetUserID";
-import Man from "../images/man.png";
+
 
 export const Navbar =() => {
     const [cookies, setCookies , removeCookie] = useCookies(['access_token']);
