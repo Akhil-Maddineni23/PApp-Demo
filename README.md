@@ -9,6 +9,7 @@
 6. These shared notes will also appear in the receivers account with running an expiration timer.
 7. Recevier cannot delete the received notes.
 8. If a owner of the note deleted the note and if it shared to other users then it also gets deleted from the receivers end.
+9. Notifications are send to the users whenever a note shared to them.
 
 ## Frameworks Used :
 * Frontend - React Js , HTML , CSS
